@@ -56,8 +56,8 @@
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bastián%20Vera-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/bverab)
-[![Email](https://img.shields.io/badge/Email-bastian.vera%40example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bastian.vera@ug.uchile.cl)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bastián%20Vera-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bverab)
+[![Email](https://img.shields.io/badge/Email-bastian.vera%40ug.uchile.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bastian.vera@ug.uchile.cl)
 
 </div>
 
