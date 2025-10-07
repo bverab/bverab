@@ -27,7 +27,6 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
@@ -57,9 +56,8 @@
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bastián%20Vera-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
-[![Email](https://img.shields.io/badge/Email-bastian.vera%40example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bastian.vera@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-1E90FF?style=for-the-badge&logo=githubpages&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bastián%20Vera-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/bverab)
+[![Email](https://img.shields.io/badge/Email-bastian.vera%40example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bastian.vera@ug.uchile.cl)
 
 </div>
 
