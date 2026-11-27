@@ -92,7 +92,7 @@ class BastianVera:
   <tr>
     <td width="50%" valign="top">
       <h3>🚛 <a href="https://github.com/bverab/rfdetr_pipeline">RF-DETR Pipeline</a></h3>
-      <p>End-to-end MLOps system on <b>Vertex AI</b>: orchestrated training with Kubeflow Pipelines and real GPU serving with NVIDIA Triton, applied to object detection on supply-chain trucks.</p>
+      <p>Learning project on <b>Vertex AI</b> pipelines and computer vision: orchestrated training with Kubeflow Pipelines and GPU serving with NVIDIA Triton, training an object detector on a public cars and trucks dataset.</p>
       <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Computer_Vision-0D1117?style=flat-square"/> <img src="https://img.shields.io/badge/MLOps-0D1117?style=flat-square"/></p>
     </td>
     <td width="50%" valign="top">
